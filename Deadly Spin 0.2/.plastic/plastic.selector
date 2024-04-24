@@ -1,0 +1,4 @@
+repository "Deadly Spin 0.2@Vir@cloud"
+  path "/"
+    br "/main"
+    co "/main"
